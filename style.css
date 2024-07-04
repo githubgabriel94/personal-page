@@ -42,12 +42,12 @@ h6{
 }
 
 .intro-pic img{
-    border-radius: 50%;
+    border-radius: 20%;
 }
 
-.rajdhani-light {
+.rajdhani-medium {
     font-family: "Rajdhani", sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     font-style: normal;
   }
 
