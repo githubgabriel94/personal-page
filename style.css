@@ -1,0 +1,68 @@
+.gradient-background{
+    background: linear-gradient(300deg, #042a51, rgb(142, 217, 247), #022351);
+    background-size: 200% 160%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background-btn{
+    background: linear-gradient(300deg, #F0EDCF, rgb(142, 217, 247), #F0EDCF);
+    background-size: 200% 160%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+.gradient-background-foot{
+    background: linear-gradient(300deg, #F0EDCF, #F0EDCF, rgb(142, 217, 247));
+    background-size: 200% 160%;
+    animation: gradient-animation 18s ease infinite;
+}
+
+h1{
+    font-size: 5rem;
+    color: #000000;
+}
+
+h2{
+    color: #F0EDCF;
+}
+
+h3{
+    color: #000000;
+    font-size: 3rem;
+}
+
+h6{
+    color: #F0EDCF;
+}
+
+.intro-pic{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.intro-pic img{
+    border-radius: 50%;
+}
+
+.rajdhani-light {
+    font-family: "Rajdhani", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.light-paragraph p{
+    color: #F0EDCF;
+}
+
+.skills{
+    display: flex;
+    width: 100%;
+}
+
+.hr-cool {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
